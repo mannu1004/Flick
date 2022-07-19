@@ -114,16 +114,16 @@ h2{
   border-radius: 15px 15px 0 0;
 }
 .card-1{
-  background-image: url('pictures/festival.jpg');
+  background-image: url('festival.jpg');
 }
 .card-2{
-  background-image: url('pictures/birthday.jpg');
+  background-image: url('birthday.jpg');
 }
 .card-3{
-  background-image: url('pictures/solo.jpg');
+  background-image: url('solo.jpg');
 }
 .card-4{
-  background-image: url('pictures/squad.jpg');
+  background-image: url('squad.jpg');
 }
 
 .card a{
